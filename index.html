@@ -479,16 +479,6 @@
             axios.get('https://vip.guvenilensiteler.com/data.json')
                 .then((response) => {
                     this.client = response.data.html
-                    this.king = _.find(this.client.categories, ['id', 1710467155101]);
-                    this.clover = _.find(this.client.categories, ['id', 1710467161452]);
-                    this.strip = _.find(this.client.categories, ['id', 1710467148324]);
-                    this.leftFix = _.find(this.client.categories, ['id', 1705945072794]);
-                    this.rightFix = _.find(this.client.categories, ['id', 1705945082063]);
-                    this.slider = _.find(this.client.categories, ['id', 1706090032063]);
-                    this.vip = _.find(this.client.categories, ['id', 1705945154693]);
-                    this.diamond = _.find(this.client.categories, ['id', 1705945112098]);
-                    this.bottomFix = _.find(this.client.categories, ['id', 1705945105481]);
-                    this.notifyFix = _.find(this.client.categories, ['id', 1708437128106]);
                     this.list = _.find(this.client.categories, ['id', 1705945167988]);
                     this.loading = false;
                     setTimeout(() => {
