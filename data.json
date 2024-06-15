@@ -6,51 +6,51 @@
       {
         "url": "https://cutt.ly/keo8NToQ",
         "desc": [
-          "TÜM OYUNLARDA GEÇERLİ 600 TL"
+          "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
         ],
         "site": "betkom",
         "sort": null,
         "color": "#1fe0ff",
         "miktar": "₺600",
-        "promo_code": null,
+        "promo_code": "KAZAN600",
         "slider_img": ""
       },
       {
         "url": "https://cutt.ly/ueowClVB",
         "desc": [
-          "TÜM OYUNLARDA GEÇERLİ 600 TL"
+          "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
         ],
         "site": "tarafbet",
         "sort": null,
         "color": "#178b42",
         "miktar": "₺600",
-        "promo_code": null,
+        "promo_code": "KAZAN600",
         "slider_img": ""
       },
       {
         "url": "https://cutt.ly/Qeo801pi",
         "desc": [
-          "TÜM OYUNLARDA GEÇERLİ 600 TL"
+          "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
         ],
         "site": "bahiscom",
         "sort": null,
         "color": "#00c683",
         "miktar": "₺600",
-        "promo_code": null,
+        "promo_code": "KAZAN600",
         "slider_img": ""
       },
       {
         "url": "https://cutt.ly/peo801FJ",
         "desc": [
-          "TÜM OYUNLARDA GEÇERLİ 600 TL"
+          "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
         ],
         "site": "mariobet",
         "sort": null,
         "color": "#f16227",
         "miktar": "₺600",
-        "promo_code": null,
+        "promo_code": "KAZAN600",
         "slider_img": ""
-      },
+      }
     ],
     "social": {
       "kick": null,
@@ -63,7 +63,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://vip.guvenilensiteler.com/",
+    "cdn_url": "https://localhost/bet/vip.guvenilensiteler/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -140,52 +140,20 @@
         "sort": "3",
         "sites": [
           {
-            "site": "monobahis",
+            "site": "betkom",
             "sort": "1"
           },
           {
-            "site": "caddebet",
+            "site": "tarafbet",
             "sort": "2"
           },
           {
-            "site": "klasbahis",
+            "site": "bahiscom",
             "sort": "3"
           },
           {
-            "site": "pokerklas",
+            "site": "mariobet",
             "sort": "4"
-          },
-          {
-            "site": "jestbahis",
-            "sort": "5"
-          },
-          {
-            "site": "xslot",
-            "sort": "6"
-          },
-          {
-            "site": "betturkey",
-            "sort": "7"
-          },
-          {
-            "site": "bayspin",
-            "sort": "8"
-          },
-          {
-            "site": "baywin",
-            "sort": "9"
-          },
-          {
-            "site": "betine",
-            "sort": "10"
-          },
-          {
-            "site": "betorspin",
-            "sort": "11"
-          },
-          {
-            "site": "betist",
-            "sort": "12"
           }
         ]
       },
@@ -260,19 +228,47 @@
         "sort": "4",
         "sites": [
           {
-            "site": "betkom",
-            "sort": "1"
+            "site": "pusulabet",
+            "sort": "8"
           },
           {
-            "site": "tarafbet",
+            "site": "lgbahis",
+            "sort": "11"
+          },
+          {
+            "site": "masterbetting",
+            "sort": "9"
+          },
+          {
+            "site": "piabet",
+            "sort": "10"
+          },
+          {
+            "site": "klasbahis",
+            "sort": "5"
+          },
+          {
+            "site": "monobahis",
+            "sort": "6"
+          },
+          {
+            "site": "caddebet",
+            "sort": "7"
+          },
+          {
+            "site": "betorspin",
             "sort": "2"
           },
           {
-            "site": "bahiscom",
+            "site": "meybet",
+            "sort": "1"
+          },
+          {
+            "site": "betpipo",
             "sort": "3"
           },
           {
-            "site": "mariobet",
+            "site": "betturkey",
             "sort": "4"
           }
         ]
