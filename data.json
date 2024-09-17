@@ -18,13 +18,13 @@
       {
         "url": "https://cutt.ly/ueowClVB",
         "desc": [
-          "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
+          "YENİ ÜYELERE ÖZEL 100 $ DENEME BONUSU"
         ],
         "site": "tarafbet",
         "sort": null,
         "color": "#178b42",
-        "miktar": "₺600",
-        "promo_code": "KAZAN600",
+        "miktar": "$100",
+        "promo_code_yok": "100 DOLAR",
         "slider_img": ""
       },
       {
@@ -50,6 +50,30 @@
         "miktar": "₺600",
         "promo_code": "KAZAN600",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/delikenanxslot",
+        "desc": [
+          "500₺ veya 500 freespin"
+        ],
+        "site": "xslot",
+        "sort": null,
+        "color": "#2dbcb4",
+        "miktar": "₺500",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/delikenanbetturkey",
+        "desc": [
+          "500₺ veya 500 freespin"
+        ],
+        "site": "betturkey",
+        "sort": null,
+        "color": "#ffdd3a",
+        "miktar": "₺500",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -63,7 +87,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://vip.guvenilensiteler.com/",
+    "cdn_url": "https://vip.guvenlisite.com/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -154,6 +178,14 @@
           {
             "site": "mariobet",
             "sort": "4"
+          },
+          {
+            "site": "xslot",
+            "sort": "5"
+          },
+          {
+            "site": "betturkey",
+            "sort": "6"
           }
         ]
       },
